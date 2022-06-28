@@ -1,7 +1,7 @@
 ---
 type: posts
-title: Posts
-date: 2021-03-18
+title: Detecting Price Manipulation Attacks on DeFi Applications
+date: 2022-6-28
 ---
 
 # Detecting Price Manipulation Attacks on DeFi Applications
