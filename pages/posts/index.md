@@ -1,6 +1,6 @@
 ---
 type: posts
-title: Detecting Price Manipulation Attacks on DeFi Applications
+title: Blog
 date: 2022-6-28
 ---
 
